@@ -1,0 +1,29 @@
+{
+  "name": "react-navigation-web",
+  "version": "0.0.0",
+  "description": "Web bindings for React Navigation",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taion/react-navigation-web.git"
+  },
+  "keywords": [
+    "navigation",
+    "react",
+    "react-navigation",
+    "routing",
+    "web"
+  ],
+  "author": "Jimmy Jia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taion/react-navigation-web/issues"
+  },
+  "homepage": "https://github.com/taion/react-navigation-web#readme"
+}
